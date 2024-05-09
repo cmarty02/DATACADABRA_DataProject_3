@@ -1,4 +1,4 @@
-# Detección de Enfermedad Cardiaca
+# Algoritmo para la prediccion de enfermedades cardiacas
 ## Equipo
 
  Lucía Esteve, Cristian Marty, Pablo Pérez y Stas Korotchenko.
