@@ -1,4 +1,7 @@
 # Detección de Enfermedad Cardiaca
+## Equipo
+
+ Lucía Esteve, Cristian Marty, Pablo Pérez y Stas Korotchenko.
 
 ## Introducción
 
@@ -9,10 +12,6 @@ Este proyecto se enfoca en identificar enfermedades cardíacas mediante el anál
 El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático de inteligencia artificial capaz de predecir la presencia de enfermedades cardíacas utilizando la información del dataset que se nos proporciona obtenida de diversas pruebas médicas y características clínicas.
 
 Se busca proporcionar a los profesionales médicos una herramienta efectiva para la toma de decisiones clínicas y poder personalizar los tratamientos según las características individuales de cada paciente.
-
-## Equipo
-
- Lucía Esteve, Cristian Marty, Pablo Pérez y Stas Korotchenko.
 
 ## Dataset
 
