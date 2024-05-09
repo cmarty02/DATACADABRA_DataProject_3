@@ -9,7 +9,7 @@ Este proyecto se enfoca en identificar enfermedades cardíacas mediante el anál
 
 ## Objetivos
 
-El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático de inteligencia artificial capaz de predecir la presencia de enfermedades cardíacas utilizando la información del dataset que se nos proporciona obtenida de diversas pruebas médicas y características clínicas.
+El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir la presencia de enfermedades cardíacas utilizando la información del dataset que se nos proporciona obtenida de diversas pruebas médicas y características clínicas.
 
 Se busca proporcionar a los profesionales médicos una herramienta efectiva para la toma de decisiones clínicas y poder personalizar los tratamientos según las características individuales de cada paciente.
 
