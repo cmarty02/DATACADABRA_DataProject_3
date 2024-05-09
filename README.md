@@ -1,7 +1,8 @@
-# Algoritmo para la prediccion de enfermedades cardiacas
+# Algoritmo para la Predicción de Enfermedades Cardíacas
+
 ## Equipo
 
- Lucía Esteve, Cristian Marty, Pablo Pérez y Stas Korotchenko.
+Lucía Esteve, Cristian Marty, Pablo Pérez, Stas Korotchenko.
 
 ## Introducción
 
@@ -35,22 +36,22 @@ El conjunto de datos está compuesto por 13 características que describen las c
 
 El desarrollo del proyecto sigue los siguientes pasos:
 
-1. Análisis de Variables: Se realiza una exploración detallada de las variables para comprender su distribución y relevancia en el análisis.
+1. **Análisis de Variables:** Se realiza una exploración detallada de las variables para comprender su distribución y relevancia en el análisis.
 
-2. Limpieza de Datos: Se lleva a cabo el proceso de limpieza de datos para eliminar valores atípicos y errores, asegurando la calidad y consistencia de los datos.
+2. **Limpieza de Datos:** Se lleva a cabo el proceso de limpieza de datos para eliminar valores atípicos y errores, asegurando la calidad y consistencia de los datos.
 
-3. Imputación de Valores Faltantes: Se utilizan técnicas como el KNN imputer para imputar valores faltantes en las variables, garantizando la integridad de los datos para el análisis.
+3. **Imputación de Valores Faltantes:** Se utilizan técnicas como el KNN imputer para imputar valores faltantes en las variables, garantizando la integridad de los datos para el análisis.
 
-4. Preparación de Datos: Se transforman las variables categóricas en variables dummy para su inclusión en el modelo de aprendizaje automático.
+4. **Preparación de Datos:** Se transforman las variables categóricas en variables dummy para su inclusión en el modelo de aprendizaje automático.
 
-5. Entrenamiento del Modelo: Se selecciona un conjunto de modelos de aprendizaje automático y se entrenan utilizando los datos preparados.
+5. **Entrenamiento del Modelo:** Se selecciona un conjunto de modelos de aprendizaje automático y se entrenan utilizando los datos preparados.
 
-6. Benchmark de Modelos: Se realiza una evaluación comparativa de los modelos entrenados para identificar el más adecuado para el problema en cuestión.
+6. **Benchmark de Modelos:** Se realiza una evaluación comparativa de los modelos entrenados para identificar el más adecuado para el problema en cuestión.
 
-7. Selección de Características: Se implementa el método de backward selection para identificar las características más relevantes y mejorar la eficiencia del modelo.
+7. **Selección de Características:** Se implementa el método de backward selection para identificar las características más relevantes y mejorar la eficiencia del modelo.
 
-8. Iteración del Modelo: Se lleva a cabo un bucle de 1,000 iteraciones para refinar y optimizar el modelo seleccionado.
+8. **Iteración del Modelo:** Se lleva a cabo un bucle de 1,000 iteraciones para refinar y optimizar el modelo seleccionado.
 
-9. Métricas de Desempeño y Evaluación: Se utilizan métricas de rendimiento como precisión, recall y F1-score para evaluar el desempeño del modelo en la detección de enfermedades cardíacas.
+9. **Métricas de Desempeño y Evaluación:** Se utilizan métricas de rendimiento como precisión, recall y F1-score para evaluar el desempeño del modelo en la detección de enfermedades cardíacas.
 
-10. Conclusiones y Hallazgos: Se discuten las conclusiones y hallazgos obtenidos durante el desarrollo del proyecto, destacando las limitaciones, posibles mejoras y el impacto potencial en la práctica clínica.
+10. **Conclusiones y Hallazgos:** Se discuten las conclusiones y hallazgos obtenidos durante el desarrollo del proyecto, destacando las limitaciones, posibles mejoras y el impacto potencial en la práctica clínica.
