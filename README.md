@@ -18,19 +18,19 @@ Se busca proporcionar a los profesionales médicos una herramienta efectiva para
 
 El conjunto de datos está compuesto por 13 características que describen las condiciones de salud de cada uno de los pacientes. Estas características se describen a continuación:
 
-- Age: Edad del paciente 
-- Sex: Sexo del paciente (0: Mujer, 1: Hombre)
-- CP: Tipo de dolor de pecho 
-- Trestbps: Presión arterial en reposo (en mm Hg al ingreso en el hospital)
-- Chol: Colesterol sérico en mg/dl
-- Fbs: Dolor provocado por el esfuerzo (1 = sí, 0 = no)
-- Restecg: Resultados electrocardiográficos en reposo
-- Thalach: Frecuencia cardiaca en reposo
-- Exang: Angina inducida por el ejercicio (1 = sí, 0 = no)
-- Oldpeak: Depresión del ST inducida por el ejercicio en relación con el reposo
-- Slope: La pendiente del segmento ST en ejercicio máximo
-- Ca: Número de vasos mayores (0-3) coloreados por fluoroscopía
-- Thal: Tipo de defecto (3: Normal, 6: Defecto fijo, 7: Defecto reversible)
+- *Age:* Edad del paciente 
+- *Sex:* Sexo del paciente (0: Mujer, 1: Hombre)
+- *CP:* Tipo de dolor de pecho 
+- *Trestbps:* Presión arterial en reposo (en mm Hg al ingreso en el hospital)
+- *Chol:* Colesterol sérico en mg/dl
+- *Fbs:* Dolor provocado por el esfuerzo (1 = sí, 0 = no)
+- *Restecg:* Resultados electrocardiográficos en reposo
+- *Thalach:* Frecuencia cardiaca en reposo
+- *Exang:* Angina inducida por el ejercicio (1 = sí, 0 = no)
+- *Oldpeak:* Depresión del ST inducida por el ejercicio en relación con el reposo
+- *Slope:* La pendiente del segmento ST en ejercicio máximo
+- *Ca:* Número de vasos mayores (0-3) coloreados por fluoroscopía
+- *Thal:* Tipo de defecto (3: Normal, 6: Defecto fijo, 7: Defecto reversible)
 
 ## Metodología
 
