@@ -12,7 +12,7 @@ Se busca proporcionar a los profesionales médicos una herramienta efectiva para
 
 ## Equipo
 
-Cristian Marty, Pablo Pérez, Stas Korotchenko, Lucía Esteve
+ Lucía Esteve, Cristian Marty, Pablo Pérez y Stas Korotchenko.
 
 ## Dataset
 
