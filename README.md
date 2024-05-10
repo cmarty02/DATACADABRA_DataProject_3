@@ -16,7 +16,11 @@ Equipo
 
 Dataset
 
-El conjunto de datos está compuesto por 13 característicasque describen las condiciones de salud de cada uno de los pacientes. Estas características se describen a continuación:
+El conjunto de datos está compuesto por 13 características que describen las condiciones de salud de cada uno de los pacientes 
+
+Las columnas representan diferentes características de los pacientes, como edad (age), sexo (sex), tipo de dolor de pecho (cp), presión arterial en reposo (trestbps), colesterol sérico (chol), entre otras.
+
+La columna 'label' representa la variable objetivo, que indica la presencia de enfermedad cardíaca en diferentes grados (0 para ausencia y del 1 al 4 para diferentes niveles de gravedad).. Estas características se describen a continuación:
 
 Age: Edad del paciente 
 
@@ -75,12 +79,12 @@ El desarrollo del proyecto sigue los siguientes pasos:
 4. Preparación de Datos: Se transforman las variables categóricas en variables dummy para su inclusión en el modelo de aprendizaje automático.
 Entrenamiento del Modelo: Se selecciona un conjunto de modelos de aprendizaje automático y se entrenan utilizando los datos preparados.
 
-5. Benchmark de Modelos: Se realiza una evaluación comparativa de los modelos entrenados para identificar el más adecuado para el problema en cuestión.
+1. Benchmark de Modelos: Se realiza una evaluación comparativa de los modelos entrenados para identificar el más adecuado para el problema en cuestión.
    
-6. Selección de Características: Se implementa el método de backward selection para identificar las características más relevantes y mejorar la eficiencia del modelo.
+2. Selección de Características: Se implementa el método de backward selection para identificar las características más relevantes y mejorar la eficiencia del modelo.
    
-7. Iteración del Modelo: Se lleva a cabo un bucle de 1,000 iteraciones para refinar y optimizar el modelo seleccionado.
+3. Iteración del Modelo: Se lleva a cabo un bucle de 1,000 iteraciones para refinar y optimizar el modelo seleccionado.
 
-8. Métricas de Desempeño y Evaluación: Se utilizan métricas de rendimiento como precisión, recall y F1-score para evaluar el desempeño del modelo en la detección de enfermedades cardíacas.
+4. Métricas de Desempeño y Evaluación: Se utilizan métricas de rendimiento como precisión, recall y F1-score para evaluar el desempeño del modelo en la detección de enfermedades cardíacas.
 
-9. Conclusiones y Hallazgos: Se discuten las conclusiones y hallazgos obtenidos durante el desarrollo del proyecto, destacando las limitaciones, posibles mejoras y el impacto potencial en la práctica clínica.
+5. Conclusiones y Hallazgos: Se discuten las conclusiones y hallazgos obtenidos durante el desarrollo del proyecto, destacando las limitaciones, posibles mejoras y el impacto potencial en la práctica clínica.
